@@ -1,1 +1,1 @@
-# Thingy
+# Thingy Web-grensesnitt

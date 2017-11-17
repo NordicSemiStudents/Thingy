@@ -1,8 +1,8 @@
 # Thingy Web-grensesnitt
 
-######Blockly that translates blocks into C.
+###### Blockly that translates blocks into C.
 
-####To do
+#### To do
 * Get new blocks to show up in workspace
   * The blocks are made, but they won't show up
 * Fix loops in workspace

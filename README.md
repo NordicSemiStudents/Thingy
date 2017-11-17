@@ -8,5 +8,6 @@
 * Fix loops in workspace
   * It started acting up after I tried to add an existing block from another category to it
 
-  [Blockly](https://developers.google.com/blockly/)
-  [Cake](https://github.com/cra16/cake-core)
+[Blockly](https://developers.google.com/blockly/)
+
+[Cake](https://github.com/cra16/cake-core)
